@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Mark-Elliott5/photo-tag-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Mark-Elliott5/photo-tag-frontend.git
